@@ -1,0 +1,19 @@
+{
+  "name": "skill-copilot",
+  "version": "1.0.0",
+  "description": "Claude Code skill to delegate prompts to GitHub Copilot CLI for code analysis, refactoring, code review, and automated editing",
+  "author": {
+    "name": "Marcin-Duszynski"
+  },
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "plugin",
+    "skill",
+    "copilot",
+    "github",
+    "automation",
+    "code-review",
+    "refactoring"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skill-copilot",
+  "description": "Marketplace for the skill-copilot plugin, enabling Claude Code to delegate tasks to GitHub Copilot CLI",
+  "owner": {
+    "name": "Marcin-Duszynski",
+    "url": "https://github.com/Marcin-Duszynski"
+  },
+  "plugins": [
+    {
+      "name": "skill-copilot",
+      "source": "./plugins/skill-copilot",
+      "description": "Delegate prompts to GitHub Copilot CLI for code analysis, refactoring, code review, and automated editing",
+      "version": "1.0.0",
+      "category": "development",
+      "homepage": "https://github.com/Marcin-Duszynski/skill-copilot",
+      "tags": [
+        "skill",
+        "copilot",
+        "github",
+        "automation",
+        "code-review"
+      ]
+    }
+  ]
+}
