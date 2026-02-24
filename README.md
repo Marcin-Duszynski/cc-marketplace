@@ -1,11 +1,11 @@
-# claude-code-marketplace
+# cc-marketplace
 
 Personal [Claude Code](https://claude.ai/code) plugin marketplace by Marcin Duszynski.
 
 ## Installation
 
 1. In Claude Code, run `/plugin`
-2. Add marketplace: `Marcin-Duszynski/claude-code-marketplace`
+2. Add marketplace: `Marcin-Duszynski/cc-marketplace`
 3. Browse and install available plugins
 
 ## Plugins

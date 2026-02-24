@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-code-marketplace",
+  "name": "cc-marketplace",
   "description": "Personal Claude Code plugin marketplace by Marcin Duszynski",
   "owner": {
     "name": "Marcin-Duszynski",
@@ -13,7 +13,7 @@
       "description": "Delegate prompts to GitHub Copilot CLI for code analysis, refactoring, code review, and automated editing",
       "version": "1.0.0",
       "category": "development",
-      "homepage": "https://github.com/Marcin-Duszynski/claude-code-marketplace",
+      "homepage": "https://github.com/Marcin-Duszynski/cc-marketplace",
       "tags": [
         "skill",
         "copilot",
